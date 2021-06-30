@@ -1,0 +1,21 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Asus TUF A17 FA706IU Gaming Laptop Ryzen 7 4800H/ 8GB RAM/ 512GB SSD/ GTX 166queen panel bed",
+          "price": 167000,
+          "image": { "fields": { "file": { "url": "./images/Lenovo Legion Y545 I7 9TH GEN/ 16GB RAM/ 512GB SSD/ GTX 1660TI/ 15.6 144Hz" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Lenovo Legion Y545 I7 9TH GEN/ 16GB RAM/ 512GB SSD/ GTX 1660TI/ 15.6 144Hz",
+          "price": 165000,
+          "image": { "fields": { "file": { "url": "./images/y545_3.jpg" } } }
+        }
+      }
+      
+    ]
+  }
